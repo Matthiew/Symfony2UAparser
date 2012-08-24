@@ -4,7 +4,7 @@
     "description": "UA Parser vendor for symfony2",
     "keywords": ["ua-parser"],
     "homepage": "http://github.com/Matthiew/Symfony2UAparser",
-    "licence": ""
+    "licence": "",
     "authors": [
         {
             "name": "t0k4rt",
