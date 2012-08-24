@@ -1,0 +1,22 @@
+{
+    "name": "matthiew/uaparser",
+    "type": "library",
+    "description": "UA Parser vendor for symfony2",
+    "keywords": ["ua-parser"],
+    "homepage": "http://github.com/Matthiew/Symfony2UAparser",
+    "licence": ""
+    "authors": [
+        {
+            "name": "t0k4rt",
+            "homepage": "https://github.com/t0k4rt",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": { "UA_Parser": "" }
+    },
+    "target-dir": "uaparser"
+}
