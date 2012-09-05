@@ -16,7 +16,7 @@
         "php": ">=5.3.0"
     },
     "autoload": {
-        "psr-0": { "UA_": "lib/" }
+        "psr-0": { "UA_": "uaparser/lib/" }
     },
     "target-dir": "uaparser"
 }
